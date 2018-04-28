@@ -7,8 +7,9 @@
 
 ### Good and Bad Design:
 
-[Good](https://medium.com/@bdbooksrule/good-and-bad-design-project-submission-1-52c23b3b9bf1) 
-[Bad](https://medium.com/@bdbooksrule/good-and-bad-design-project-submission-2-3104286df96c) 
+[Good Design link](https://medium.com/@bdbooksrule/good-and-bad-design-project-submission-1-52c23b3b9bf1) 
+[Bad Design link](https://medium.com/@bdbooksrule/good-and-bad-design-project-submission-2-3104286df96c) 
+
 This project was unique amongst the rest of those showcased here, in that it was not a group project.  I essentially just had to find and write a report on an example of good and bad design around the campus.  This was very much an introductory project.
 
 ### Placeholder
