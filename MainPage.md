@@ -35,3 +35,9 @@ Now this was an interesting one.  I worked with Michael Gonsalves, Nikolas Gamar
 [Link](https://medium.com/@dowdtd16/design-for-well-being-18c42acfa051)
 
 This prject was a collaboration between myself, Trevor Dowd, Alazar Genene and Trevor Goldstein.  We were tasked with designing a webpage that utilized the Affectiva Javascript library in some helpful fashion.
+
+### Design Manifesto
+
+[Link](https://medium.com/@bdbooksrule/design-manifesto-1fb5b0bc54b4)
+
+This is a short manifesto summarizing the most important design principles that I learned in this HCI class
